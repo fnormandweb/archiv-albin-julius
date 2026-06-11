@@ -1,4 +1,4 @@
-/* Generated from MusicBrainz + Cover Art Archive — Der Blutharsch */
+/* Generated from MusicBrainz + Cover Art Archive */
 window.ARCHIV_DISCOGRAPHY = {
   "der-blutharsch": {
     "name": "Der Blutharsch",
@@ -661,6 +661,157 @@ window.ARCHIV_DISCOGRAPHY = {
         "mbUrl": "https://musicbrainz.org/release-group/c0eff3eb-182d-4e7a-b283-826b034a87f9",
         "cover": "https://coverartarchive.org/release-group/c0eff3eb-182d-4e7a-b283-826b034a87f9/front-250",
         "discogsSearch": "https://www.discogs.com/search/?q=Der%20Blutharsch%20Black%20Rider%20on%20the%20Storm&type=all"
+      }
+    ]
+  },
+  "moon-lay-hidden": {
+    "name": "The Moon lay hidden beneath a Cloud",
+    "discogsArtist": "https://www.discogs.com/artist/49841-Moon-Lay-Hidden-Beneath-A-Cloud-The",
+    "musicbrainzArtist": "https://musicbrainz.org/artist/b878d7ff-83cc-4187-aa10-c3946a596363",
+    "releases": [
+      {
+        "title": "The Moon lay hidden beneath a Cloud",
+        "year": "1993",
+        "type": "Album",
+        "mbid": "9266599f-fc5a-330d-8a56-697ead7dbbef",
+        "mbUrl": "https://musicbrainz.org/release-group/9266599f-fc5a-330d-8a56-697ead7dbbef",
+        "cover": "https://coverartarchive.org/release-group/9266599f-fc5a-330d-8a56-697ead7dbbef/front-250",
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20The%20Moon%20lay%20hidden%20beneath%20a%20Cloud&type=all"
+      },
+      {
+        "title": "Amara Tanta Tyri",
+        "year": "1994",
+        "type": "Album",
+        "mbid": "8e0da657-3623-3c5f-a860-33be071817b8",
+        "mbUrl": "https://musicbrainz.org/release-group/8e0da657-3623-3c5f-a860-33be071817b8",
+        "cover": "https://coverartarchive.org/release-group/8e0da657-3623-3c5f-a860-33be071817b8/front-250",
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20Amara%20Tanta%20Tyri&type=all"
+      },
+      {
+        "title": "A new Soldier follows the Path of a new King",
+        "year": "1995",
+        "type": "Album",
+        "mbid": "7a2ed15f-423d-3b26-b646-7361877446df",
+        "mbUrl": "https://musicbrainz.org/release-group/7a2ed15f-423d-3b26-b646-7361877446df",
+        "cover": "https://coverartarchive.org/release-group/7a2ed15f-423d-3b26-b646-7361877446df/front-250",
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20A%20new%20Soldier%20follows%20the%20Path%20of%20a%20new%20King&type=all"
+      },
+      {
+        "title": "Kostnice",
+        "year": "1995",
+        "type": "EP",
+        "mbid": "add2eea4-9d41-3a4f-ae6b-c67462fc1173",
+        "mbUrl": "https://musicbrainz.org/release-group/add2eea4-9d41-3a4f-ae6b-c67462fc1173",
+        "cover": null,
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20Kostnice&type=all"
+      },
+      {
+        "title": "Were you of Silver, were you of Gold?",
+        "year": "1996",
+        "type": "Album",
+        "mbid": "26c5a06a-d94b-3dd4-8fe9-fa8e97070832",
+        "mbUrl": "https://musicbrainz.org/release-group/26c5a06a-d94b-3dd4-8fe9-fa8e97070832",
+        "cover": null,
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20Were%20you%20of%20Silver%2C%20were%20you%20of%20Gold%3F&type=all"
+      },
+      {
+        "title": "Madhr",
+        "year": "1996",
+        "type": "EP",
+        "mbid": "6867cbaf-c9ca-39a4-a4f4-fa179f8c3953",
+        "mbUrl": "https://musicbrainz.org/release-group/6867cbaf-c9ca-39a4-a4f4-fa179f8c3953",
+        "cover": null,
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20Madhr&type=all"
+      },
+      {
+        "title": "A Night in Fear",
+        "year": "1996",
+        "type": "Album",
+        "mbid": "7164f3f0-4688-3937-b4a2-fad21a8ab8b2",
+        "mbUrl": "https://musicbrainz.org/release-group/7164f3f0-4688-3937-b4a2-fad21a8ab8b2",
+        "cover": "https://coverartarchive.org/release-group/7164f3f0-4688-3937-b4a2-fad21a8ab8b2/front-250",
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20A%20Night%20in%20Fear&type=all"
+      },
+      {
+        "title": "Yndalongg",
+        "year": "1996",
+        "type": "EP",
+        "mbid": "e82f8cbd-0a32-35bd-bea1-fdff342c70c8",
+        "mbUrl": "https://musicbrainz.org/release-group/e82f8cbd-0a32-35bd-bea1-fdff342c70c8",
+        "cover": null,
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20Yndalongg&type=all"
+      },
+      {
+        "title": "[untitled]",
+        "year": "1997",
+        "type": "EP",
+        "mbid": "00611913-80fc-39dd-a072-4a34488b0097",
+        "mbUrl": "https://musicbrainz.org/release-group/00611913-80fc-39dd-a072-4a34488b0097",
+        "cover": null,
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20%5Buntitled%5D&type=all"
+      },
+      {
+        "title": "The Smell of Blood but Victory",
+        "year": "1997",
+        "type": "Album",
+        "mbid": "41fb8404-5774-37fc-94f6-5d5f189ed0f5",
+        "mbUrl": "https://musicbrainz.org/release-group/41fb8404-5774-37fc-94f6-5d5f189ed0f5",
+        "cover": null,
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20The%20Smell%20of%20Blood%20but%20Victory&type=all"
+      },
+      {
+        "title": "Rest on your Arms reversed",
+        "year": "1999",
+        "type": "Compilation",
+        "mbid": "4a9ad7c7-81bd-3dd3-9bfe-8abff1d665a7",
+        "mbUrl": "https://musicbrainz.org/release-group/4a9ad7c7-81bd-3dd3-9bfe-8abff1d665a7",
+        "cover": "https://coverartarchive.org/release-group/4a9ad7c7-81bd-3dd3-9bfe-8abff1d665a7/front-250",
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20Rest%20on%20your%20Arms%20reversed&type=all"
+      },
+      {
+        "title": "Live in Nevers",
+        "year": "2003",
+        "type": "Live",
+        "mbid": "c469ba3a-8138-45aa-9b45-81e9757f8416",
+        "mbUrl": "https://musicbrainz.org/release-group/c469ba3a-8138-45aa-9b45-81e9757f8416",
+        "cover": null,
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20Live%20in%20Nevers&type=all"
+      },
+      {
+        "title": "AD 18.8.1997 (Der Tag, Als Die Pest Zum Treffen Kam)",
+        "year": "2007",
+        "type": "Live",
+        "mbid": "46b3166f-71a7-4a8f-9384-b0843990962d",
+        "mbUrl": "https://musicbrainz.org/release-group/46b3166f-71a7-4a8f-9384-b0843990962d",
+        "cover": "https://coverartarchive.org/release-group/46b3166f-71a7-4a8f-9384-b0843990962d/front-250",
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20AD%2018.8.1997%20(Der%20Tag%2C%20Als%20Die%20Pest%20Zum%20Treffen%20Kam)&type=all"
+      },
+      {
+        "title": "R.I.P B.1993 - D.1998",
+        "year": "2010",
+        "type": "Compilation",
+        "mbid": "4d23cce4-78ec-4a51-84e1-16243fc9ea25",
+        "mbUrl": "https://musicbrainz.org/release-group/4d23cce4-78ec-4a51-84e1-16243fc9ea25",
+        "cover": null,
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20R.I.P%20B.1993%20-%20D.1998&type=all"
+      },
+      {
+        "title": "xvii (WLDV edit)",
+        "year": "2018",
+        "type": "Single",
+        "mbid": "550f83e5-38c9-4d87-947f-c35ac10ea600",
+        "mbUrl": "https://musicbrainz.org/release-group/550f83e5-38c9-4d87-947f-c35ac10ea600",
+        "cover": "https://coverartarchive.org/release-group/550f83e5-38c9-4d87-947f-c35ac10ea600/front-250",
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20xvii%20(WLDV%20edit)&type=all"
+      },
+      {
+        "title": "Anglia Planctus Itera...",
+        "year": null,
+        "type": "Album",
+        "mbid": "ec36659a-9611-3aa8-b400-b554eedaaf4f",
+        "mbUrl": "https://musicbrainz.org/release-group/ec36659a-9611-3aa8-b400-b554eedaaf4f",
+        "cover": null,
+        "discogsSearch": "https://www.discogs.com/search/?q=The%20Moon%20lay%20hidden%20beneath%20a%20Cloud%20Anglia%20Planctus%20Itera...&type=all"
       }
     ]
   }

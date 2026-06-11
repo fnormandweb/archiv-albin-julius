@@ -117,16 +117,6 @@ const translations = {
           sweet: "Portrait \u2014 \u201CSweet Albin\u201D",
           al2010: "Portrait \u2014 ca. 2010",
           dog: "Portrait with dog (ritual animal motif)"
-        },
-        referencesTitle: "Documentary visual references (image not displayed)",
-        referencesIntro: "Files kept in the local corpus but not embedded in the HTML: project wordmarks (logo / type identity, more delicate to publish without a label clearance), small decorative crops, and clearly private photographs. Listed for the record only.",
-        referenceLabel: "Visual reference \u2014 not displayed",
-        referenceStatus: "Rights to be cleared",
-        refs: {
-          db_wordmark: { title: "Der Blutharsch \u2014 wordmark (period 1996\u20132010)", note: "Type lockup used on early Der Blutharsch material. Local file: <code>images/albin/DerBlutharschSchriftzug.gif</code> (392\u00d7108)." },
-          dbic_wordmark: { title: "Der Blutharsch and the Infinite Church of the Leading Hand \u2014 wordmark", note: "Extended wordmark used from 2010 onward. Local file: <code>images/albin/DBatucotlhSchritzug.gif</code> (399\u00d7104)." },
-          devil: { title: "Devil\u2019s Horns \u2014 ornament plate", note: "Ornament / icon associated with the <em>Devil\u2019s Horns</em> motif. Local file: <code>images/albin/Devil_s-Horns.gif</code> (378\u00d7454)." },
-          private: { title: "Private photographs (5 files)", note: "Five files appear to be private (informal portraits, snapshots): <code>Beachlife1.jpg</code>, <code>IMG_3907.jpg</code>, <code>albin_boat.jpg</code>, <code>albin_friend.jpeg</code>, <code>on_the_road.jpg</code>. Not embedded; not listed individually." }
         }
       },
       exil: {

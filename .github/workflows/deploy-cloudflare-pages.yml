@@ -19,9 +19,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Prepare deploy bundle
+        run: |
+          rm -rf .pages-deploy
+          mkdir -p .pages-deploy
+          rsync -a --exclude-from=.assetsignore ./ .pages-deploy/
+
       - name: Deploy static site
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 2481cb9e3b95ad0320dc1ddd9013d4f4
-          command: pages deploy . --project-name=archiv-albin-julius --branch=main
+          command: pages deploy .pages-deploy --project-name=archiv-albin-julius --branch=main

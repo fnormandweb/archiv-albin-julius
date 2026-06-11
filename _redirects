@@ -1,4 +1,0 @@
-# Block non-public paths (legacy template, dashboard mock, source TS)
-/_legacy/*  /404  404
-/app/*      /404  404
-/src/*      /404  404

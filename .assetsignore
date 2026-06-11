@@ -1,16 +1,7 @@
-# Excluded from Cloudflare Pages uploads (>25 MiB limit + legacy assets)
-pdf/
-video/
-videos/
-images/videos/
-
-# Not served publicly
-_legacy/
-app/
-src/
+# Staging / tooling (not part of the public site)
 .git/
-.gitignore
+.github/
+.pages-deploy/
 *.md
 wrangler.toml
 .assetsignore
-.github/

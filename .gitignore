@@ -5,18 +5,9 @@ Thumbs.db
 .env.*
 !.env.example
 
-# Large legacy media (not used by Albin Julius site; exceeds Cloudflare 25 MiB limit)
-pdf/
-video/
-videos/
-images/videos/
+.pages-deploy/
 
 # Dev / IDE
 .cursor/
 .vscode/
 *.code-workspace
-
-# Not served publicly (blocked in _redirects; kept out of deploy bundle)
-_legacy/
-app/
-src/

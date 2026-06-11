@@ -295,7 +295,26 @@ const translations = {
       labelTitle: "Label \u2014 WKN (Wir Kapitulieren Niemals)",
       labelBody: "Albin Julius\u2019s own imprint, based in Austria; primary outlet for Der Blutharsch material from the late 1990s onward. Distribution moved from World Serpent (UK) to Tesco Distribution (Germany) around 2000.",
       siteTitle: "Project websites still online",
-      siteBody: "<strong>derblutharsch.com</strong> \u2014 catalogue / merch foyer (Der Blutharsch). \u00b7 <strong>derblutharschandtheinfinitechurchoftheleadinghand.com</strong> \u2014 extended project page. \u00b7 <strong>tescogermany.bandcamp.com</strong> \u2014 distributor Bandcamp page hosting recent releases."
+      siteBody: "<strong>derblutharsch.com</strong> \u2014 catalogue / merch foyer (Der Blutharsch). \u00b7 <strong>derblutharschandtheinfinitechurchoftheleadinghand.com</strong> \u2014 extended project page. \u00b7 <strong>tescogermany.bandcamp.com</strong> \u2014 distributor Bandcamp page hosting recent releases.",
+      discography: {
+        title: "Discography",
+        intro: "Release list indexed from MusicBrainz; cover thumbnails from the Cover Art Archive where available. Open Discogs or MusicBrainz for editions, track lists, and credits.",
+        fullDiscogs: "Full catalogue on Discogs",
+        filterLabel: "Filter releases",
+        showing: "Showing",
+        releases: "releases",
+        linkDiscogs: "Discogs",
+        linkMusicBrainz: "MusicBrainz",
+        coverNote: "Cover images are served from the Cover Art Archive (community uploads). Rights vary by release; this site does not host cover files locally.",
+        filters: { all: "All" },
+        types: {
+          album: "Album",
+          ep: "EP",
+          single: "Single",
+          live: "Live",
+          compilation: "Compilation"
+        }
+      }
     },
     filters: {
       all: "All",

@@ -1,0 +1,22 @@
+# Netlify : en-têtes pour audits « Best Practices » et cache léger des assets statiques.
+# (Les chemins sont relatifs au répertoire publish / racine du site.)
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+
+/css/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400
+
+/js/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400
+
+/images/*
+  Cache-Control: public, max-age=2592000, stale-while-revalidate=86400
+
+/video/*
+  Cache-Control: public, max-age=2592000, stale-while-revalidate=86400
+
+/pdf/*
+  Cache-Control: public, max-age=1209600

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /_legacy/
+Disallow: /app/
+Disallow: /src/
+
+Sitemap: https://archiv-albinjulius.example/sitemap.xml

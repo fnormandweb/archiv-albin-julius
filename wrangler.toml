@@ -1,0 +1,5 @@
+# Cloudflare Pages — static site (no build step)
+# Deploy: npx wrangler pages deploy . --project-name=archiv-albin-julius
+name = "archiv-albin-julius"
+compatibility_date = "2026-05-15"
+pages_build_output_dir = "."

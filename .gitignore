@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+
+# Dev / IDE
+.cursor/
+.vscode/
+*.code-workspace
+
+# Not served publicly (blocked in _redirects; kept out of deploy bundle)
+_legacy/
+app/
+src/
